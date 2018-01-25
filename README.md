@@ -10,8 +10,12 @@ Table of Contents
       * [Jan, 2018](#jan-2018)
       * [Nov, 2017](#nov-2017)
 
-Personal memo for #today-learnings in our DevOps slack group
+Personal diary for what I have learned day by day.
+
+Check more in #today-learnings channel of our DevOps slack group
 https://www.dennyzhang.com/slack
+
+**Notice: this memo shouldn't include any sensitive info which is against my employer's interests**
 
 ## Jan, 2018
 [Denny Today] Jan 25th, Houston TX
@@ -25,7 +29,7 @@ curl "http://$es_ip:$es_port/${alias_name}/_count": indicates alias still point 
 [Denny Today], Jan 22nd, Houston TX
 ```
 - Cracked some dynamic programming problems. Pretty challenging.
-   http://brain.dennyzhang.com/?s=dynamic
+   http://brain.dennyzhang.com/tag/dynamicprogramming
 ```
 
 [Denny Today] Jan 17th, Houston TX
