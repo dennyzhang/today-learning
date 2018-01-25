@@ -31,7 +31,8 @@ curl "http://$es_ip:$es_port/${alias_name}/_count": indicates alias still point 
 
 [Denny Today] Jan 18th, Houston, TX
 ```
-- Per new DigitialOcean machine flavor, presented prod env migration proposal. We will save *43.72%* per month!!
+- Per new DigitialOcean machine flavor, presented prod env migration proposal.
+  We will save *43.72%* per month!!
 
 Live Demo: http://brain.dennyzhang.com/
 ```
@@ -44,7 +45,8 @@ Live Demo: http://brain.dennyzhang.com/
 
 [Denny Today], Jan 12st, Houston TX
 ```
-- ES cluster run into red twice in the past 2 days. Should be some application requests trigger this. But no solid evidence yet.
+- ES cluster run into red twice in the past 2 days.
+  Should be some application requests trigger this. But no solid evidence yet.
 ```
 
 [Denny Today] Jan 9th, Houston TX
