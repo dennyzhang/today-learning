@@ -7,14 +7,13 @@ Table of Contents
 =================
 
    * [today-learning](#today-learning)
-      * [Jan 2018](#jan-2018)
-      * [Jan, 2018](#jan-2018-1)
+      * [Jan, 2018](#jan-2018)
       * [Nov, 2017](#nov-2017)
 
 Personal memo for #today-learnings in our DevOps slack group
 https://www.dennyzhang.com/slack
 
-## Jan 2018
+## Jan, 2018
 [Denny Today] Jan 25th, Houston TX
 ```
 - Defined a Jenkins pipeline job to proactively run all Jenkins check jobs for prod env
@@ -27,6 +26,12 @@ curl "http://$es_ip:$es_port/${alias_name}/_count": indicates alias still point 
 ```
 - Cracked some dynamic programming problems. Pretty challenging.
    http://brain.dennyzhang.com/?s=dynamic
+```
+
+[Denny Today] Jan 17th, Houston TX
+```
+- Exported my local Python syntax cheatsheet to GitHub
+   https://github.com/DennyZhang/cheatsheet-python-A4
 ```
 
 [Denny Today] Jan 18th, Houston, TX
@@ -59,13 +64,6 @@ Live Demo: http://brain.dennyzhang.com/
 ```
 Learning 3 k8s service types. And trying to understand how it works behind the scene.
 Not very clear yet
-```
-
-## Jan, 2018
-[Denny Today] Jan 17th, Houston TX
-```
-- Exported my local Python syntax cheatsheet to GitHub
-   https://github.com/DennyZhang/cheatsheet-python-A4
 ```
 
 ## Nov, 2017
