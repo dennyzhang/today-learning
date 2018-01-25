@@ -33,18 +33,18 @@ curl "http://$es_ip:$es_port/${alias_name}/_count": indicates alias still point 
    http://brain.dennyzhang.com/tag/dynamicprogramming
 ```
 
-[Denny Today] Jan 17th, Houston TX
-```
-- Exported my local Python syntax cheatsheet to GitHub
-   https://github.com/DennyZhang/cheatsheet-python-A4
-```
-
 [Denny Today] Jan 18th, Houston, TX
 ```
 - Per new DigitialOcean machine flavor, presented prod env migration proposal.
   We will save *43.72%* per month!!
 
 Live Demo: http://brain.dennyzhang.com/
+```
+
+[Denny Today] Jan 17th, Houston TX
+```
+- Exported my local Python syntax cheatsheet to GitHub
+   https://github.com/DennyZhang/cheatsheet-python-A4
 ```
 
 [Denny Today] Jan 16th. Houston TX
