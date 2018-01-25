@@ -12,7 +12,8 @@ Table of Contents
 
 Personal diary for what I have learned day by day.
 
-Check more in #today-learnings channel of our DevOps slack group
+Check more in #today-learnings channel of our DevOps slack group.
+
 https://www.dennyzhang.com/slack
 
 **Notice: this memo shouldn't include any sensitive info which is against my employer's interests**
@@ -64,6 +65,8 @@ Live Demo: http://brain.dennyzhang.com/
   `Any emacs veterans here`?
 ```
 
+<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+
 [Denny Yesterday] Jan 2nd, Houston TX
 ```
 Learning 3 k8s service types. And trying to understand how it works behind the scene.
@@ -78,5 +81,4 @@ https://github.com/DennyZhang/challenges-kubernetes
 ```
 
 License: Code is licensed under [MIT License](https://www.dennyzhang.com/wp-content/mit_license.txt).
-
-<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+<a href="https://www.dennyzhang.com"><img align="right" width="185" height="37" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
