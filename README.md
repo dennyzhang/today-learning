@@ -19,6 +19,28 @@ https://www.dennyzhang.com/slack
 **Notice: this memo shouldn't include any sensitive info which is against my employer's interests**
 
 ## Jan, 2018
+[Denny Today] Jan 31st, Houston TX
+```
+- Update chef code to avoid DB/APP autostart when cloud provider reboot hypervisors.
+- Routine support and coding
+- Learned reversior sampling algorithms
+  https://brain.dennyzhang.com/tag/reservoirsampling
+```
+
+[Denny Today] Jan 30th, Houston TX
+```
+- Preparing for region reboot from cloud provider, due to Meltdown and Spectre issue.
+- Practice solving Backtracking problems by code
+```
+
+[Denny Today] Jan 29th, Houston TX
+```
+- Lots of work with ES reindexing.
+  We have around 300 index to be migrated, due to data structure changes.
+  The reindexing has failed many times because search queue is full. Also index has been closed due to some unhandled exceptions.
+```
+Dump the main logic to below GitHub repo: https://github.com/DennyZhang/elasticsearch-cli-tool
+
 [Denny Today] Jan 25th, Houston TX
 ```
 - Defined a Jenkins pipeline job to proactively run all Jenkins check jobs for prod env
