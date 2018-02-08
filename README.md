@@ -7,6 +7,7 @@ Table of Contents
 =================
 
    * [today-learning](#today-learning)
+      * [Feb, 2018](#feb-2018)
       * [Jan, 2018](#jan-2018)
       * [Nov, 2017](#nov-2017)
 
@@ -17,6 +18,44 @@ Check more in #today-learnings channel of our DevOps slack group.
 https://www.dennyzhang.com/slack
 
 **Notice: this memo shouldn't include any sensitive info which is against my employer's interests**
+
+## Feb, 2018
+[Denny Today] Feb 7th, Houston TX
+```
+- Define Jenkins job to create public VM by terraform
+  https://github.com/DennyZhang/terraform_jenkins_digitalocean
+- Manually remove resources(VM/volumes/closed ES indices) for scaling down
+```
+
+[Denny Today] Feb 6th, Houston TX
+```
+- Publish ES script for deleting closed ES indices:
+  https://github.com/DennyZhang/elasticsearch-cli-tool/tree/master/delete_closed_es_indices
+- Interview multiple candidates
+```
+
+[Denny Today] Feb 5th, Houston TX
+```
+- ES maintenance: self-protection for index deletion. only allow delete closed index.
+- Terraform wrapper: Create Jenkins job to create desired machine flavor.
+- Code problem(twopointer): https://brain.dennyzhang.com/minimum-window-substring
+```
+
+[Denny Today] Feb 2nd, Houston TX
+```
+- Update apache docker to enable SSL for vhosts
+- Update kitchen testcase to enforce SSL validation test
+- Solved one interesting Trie Tree problem
+  https://brain.dennyzhang.com/implement-magic-dictionary
+```
+
+[Denny Today] Feb 1st, Houston TX
+```
+- Lots of ES reindexing.
+- Working on ES performance issues.
+- Solving some dynamic programming problems:
+  https://brain.dennyzhang.com/tag/dynamicprogramming
+```
 
 ## Jan, 2018
 [Denny Today] Jan 31st, Houston TX
