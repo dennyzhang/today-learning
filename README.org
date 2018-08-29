@@ -21,8 +21,12 @@ https://www.dennyzhang.com/slack
 <a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
 
-**Notice: this memo shouldn't include any sensitive info which is against my employer's interests**
+*Notice: this memo shouldn't include any sensitive info from work*
 
+** Aug, 2018
+[Denny Today] 2018-08-29, MountainView, CA
+#+BEGIN_EXAMPLE
+#+END_EXAMPLE
 ** Feb, 2018
 [Denny Today] Feb 7th, Houston TX
 #+BEGIN_EXAMPLE
@@ -61,7 +65,6 @@ https://code.dennyzhang.com/implement-magic-dictionary
 - Solving some dynamic programming problems:
   https://code.dennyzhang.com/tag/dynamicprogramming
 #+END_EXAMPLE
-
 
 ** Jan, 2018
 [Denny Today] Jan 31st, Houston TX
@@ -159,7 +162,7 @@ https://github.com/DennyZhang/challenges-kubernetes
  <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
  #+END_HTML
 * org-mode configuration                                           :noexport:
-#+STARTUP: overview customtime noalign logdone hidestars
+#+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
 #+KEYWORDS: 
 #+AUTHOR: Denny Zhang
@@ -168,7 +171,7 @@ https://github.com/DennyZhang/challenges-kubernetes
 #+PRIORITIES: A D C
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+EXPORT_EXCLUDE_TAGS: exclude noexport BLOG
+#+EXPORT_EXCLUDE_TAGS: exclude noexport
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 #+LINK_UP:   
 #+LINK_HOME: 
