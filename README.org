@@ -21,11 +21,28 @@ https://www.dennyzhang.com/slack
 <a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
 
-*Notice: this memo shouldn't include any sensitive info from work*
+*No sensitive information related to my current employer*
 
+** Sep 2018
+[Denny Today] 2018-09-09, MountainView, CA
+#+BEGIN_EXAMPLE
+- Fully automate the wordpress publish process for all my sub-blogs
+- Keep exporting local gcp knowledgebase to below blog
+
+https://cheatsheet.dennyzhang.com/cheatsheet-gcp-A4
+#+END_EXAMPLE
+[Denny Today] 2018-09-01, MountainView, CA
+#+BEGIN_EXAMPLE
+- Use cloudshell to run k8s on GCE
+  https://kubernetes.io/docs/setup/turnkey/gce/
+#+END_EXAMPLE
 ** Aug, 2018
 [Denny Today] 2018-08-29, MountainView, CA
 #+BEGIN_EXAMPLE
+- Try k8s statefulset tutorials
+  https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/
+- Go through the doc of k8s trouble shooting
+  https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/
 #+END_EXAMPLE
 ** Feb, 2018
 [Denny Today] Feb 7th, Houston TX
@@ -161,6 +178,8 @@ https://github.com/DennyZhang/challenges-kubernetes
  <a href="https://github.com/DennyZhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
  <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
  #+END_HTML
+
+Blog URL: https://www.dennyzhang.com/today-learning
 * org-mode configuration                                           :noexport:
 #+STARTUP: overview customtime noalign logdone showall
 #+DESCRIPTION: 
