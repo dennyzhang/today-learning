@@ -23,6 +23,7 @@ https://www.dennyzhang.com/slack
 
 *No sensitive information related to my current employer*
 
+** Latest
 ** Sep 2018
 [Denny Today] 2018-09-09, MountainView, CA
 #+BEGIN_EXAMPLE
@@ -44,130 +45,8 @@ https://cheatsheet.dennyzhang.com/cheatsheet-gcp-A4
 - Go through the doc of k8s trouble shooting
   https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/
 #+END_EXAMPLE
-** Feb, 2018
-[Denny Today] Feb 7th, Houston TX
-#+BEGIN_EXAMPLE
-- Define Jenkins job to create public VM by terraform
-  https://github.com/DennyZhang/terraform_jenkins_digitalocean
-- Manually remove resources(VM/volumes/closed ES indices) for scaling down
-#+END_EXAMPLE
-
-[Denny Today] Feb 6th, Houston TX
-#+BEGIN_EXAMPLE
-- Publish ES script for deleting closed ES indices:
-  https://github.com/DennyZhang/elasticsearch-cli-tool/tree/master/delete_closed_es_indices
-- Interview multiple candidates
-#+END_EXAMPLE
-
-[Denny Today] Feb 5th, Houston TX
-#+BEGIN_EXAMPLE
-- ES maintenance: self-protection for index deletion. only allow delete closed index.
-- Terraform wrapper: Create Jenkins job to create desired machine flavor.
-- Code problem(twopointer): https://code.dennyzhang.com/minimum-window-substring
-#+END_EXAMPLE
-
-[Denny Today] Feb 2nd, Houston TX
-#+BEGIN_EXAMPLE
-- Update apache docker to enable SSL for vhosts
-- Update kitchen testcase to enforce SSL validation test
-- Solved one interesting Trie Tree problem
-
-https://code.dennyzhang.com/implement-magic-dictionary
-#+END_EXAMPLE
-
-[Denny Today] Feb 1st, Houston TX
-#+BEGIN_EXAMPLE
-- Lots of ES reindexing.
-- Working on ES performance issues.
-- Solving some dynamic programming problems:
-  https://code.dennyzhang.com/tag/dynamicprogramming
-#+END_EXAMPLE
-
-** Jan, 2018
-[Denny Today] Jan 31st, Houston TX
-#+BEGIN_EXAMPLE
-- Update chef code to avoid DB/APP autostart when cloud provider reboot hypervisors.
-- Routine support and coding
-- Learned reversior sampling algorithms
-  https://code.dennyzhang.com/tag/reservoirsampling
-#+END_EXAMPLE
-
-[Denny Today] Jan 30th, Houston TX
-#+BEGIN_EXAMPLE
-- Preparing for region reboot from cloud provider, due to Meltdown and Spectre issue.
-- Practice solving Backtracking problems by code
-#+END_EXAMPLE
-
-[Denny Today] Jan 29th, Houston TX
-#+BEGIN_EXAMPLE
-- Lots of work with ES reindexing.
-  We have around 300 index to be migrated, due to data structure changes.
-  The reindexing has failed many times because search queue is full. Also index has been closed due to some unhandled exceptions.
-#+END_EXAMPLE
-
-Dump the main logic to below GitHub repo: https://github.com/DennyZhang/elasticsearch-cli-tool
-
-[Denny Today] Jan 25th, Houston TX
-#+BEGIN_EXAMPLE
-- Defined a Jenkins pipeline job to proactively run all Jenkins check jobs for prod env
-- Bumped into an ES alias inconsistency issue.
-curl "http://${es_ip}:${es_port}/_alias/${alias_name}" : indicates alias has been updated correctly
-curl "http://$es_ip:$es_port/${alias_name}/_count": indicates alias still point to old index
-#+END_EXAMPLE
-
-[Denny Today], Jan 22nd, Houston TX
-#+BEGIN_EXAMPLE
-- Cracked some dynamic programming problems. Pretty challenging.
-   https://code.dennyzhang.com/tag/dynamicprogramming
-#+END_EXAMPLE
-
-
-[Denny Today] Jan 18th, Houston, TX
-#+BEGIN_EXAMPLE
-- Per new DigitialOcean machine flavor, presented prod env migration proposal.
-  We will save *43.72%* per month!!
-
-Live Demo: https://code.dennyzhang.com/
-#+END_EXAMPLE
-
-[Denny Today] Jan 17th, Houston TX
-#+BEGIN_EXAMPLE
-- Exported my local Python syntax cheatsheet to GitHub
-   https://github.com/DennyZhang/cheatsheet-python-A4
-#+END_EXAMPLE
-
-
-[Denny Today] Jan 16th. Houston TX
-#+BEGIN_EXAMPLE
-- Solving one interesting design problem(code test)
-  https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/
-#+END_EXAMPLE
-
-[Denny Today], Jan 12st, Houston TX
-#+BEGIN_EXAMPLE
-- ES cluster run into red twice in the past 2 days.
-  Should be some application requests trigger this. But no solid evidence yet.
-#+END_EXAMPLE
-
-[Denny Today] Jan 9th, Houston TX
-#+BEGIN_EXAMPLE
-- Exercise my *emacs* elisp skills: enforce 2-way sync in between a wordpress blog and a GitHub repo.
-  `Any emacs veterans here`?
-#+END_EXAMPLE
-
-[Denny Yesterday] Jan 2nd, Houston TX
-#+BEGIN_EXAMPLE
-
-Learning 3 k8s service types. And trying to understand how it works behind the scene.
-Not very clear yet
-#+END_EXAMPLE
-
-** Nov, 2017
-[Denny Today] Nov 29th, Houston TX
-#+BEGIN_EXAMPLE
-- Started a GitHub repo for my k8s deep dive
-https://github.com/DennyZhang/challenges-kubernetes
-#+END_EXAMPLE
+** Old Diary
+Check [[https://github.com/dennyzhang/today-learning/blob/master/README-old.org][this link]].
 ** More Resources
  License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
  #+BEGIN_HTML
