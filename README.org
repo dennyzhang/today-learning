@@ -14,7 +14,7 @@ https://www.dennyzhang.com/slack
 <div id="the whole thing" style="overflow: hidden;">
 <div style="float: left; padding: 5px"> <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a></div>
 <div style="float: left; padding: 5px"><a href="https://github.com/dennyzhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a></div>
-<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a></div>
+<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack"/></a></div>
 </div>
 
 <br/><br/>
@@ -23,7 +23,52 @@ https://www.dennyzhang.com/slack
 
 *No sensitive information related to my current employer*
 
-** Latest
+** Latest                                                          :noexport:
+*** [Denny Today] 2019-02-18, Palo Alto, CA                        :noexport:
+ #+BEGIN_EXAMPLE
+ 买好了房子
+ #+END_EXAMPLE
+*** [Denny Today] 2019-03-06, Palo Alto, CA
+ #+BEGIN_EXAMPLE
+ pks healthcheck shell script
+
+ Tuning Jenkins docker image: enable timestamper and slack notification
+
+ Help on gear2 ci hacknimbus env
+ #+END_EXAMPLE
+*** [Denny Today] 2019-07-23, Palo Alto, CA
+ #+BEGIN_EXAMPLE
+ Validate wavefront addon-resizer:1.8.5, instead of addon-resizer:1.7
+ wavefront oss/tp tickets: 410 new packages
+ Coordinate vrops team to validate new cadvisor docker image
+ Working on vrli feature validation & prepare PR
+ #+END_EXAMPLE
+*** [Denny Today] 2020-06-01, Palo Alto, CA
+- Learn visual studio shortcuts
+** Oct 2018
+*** [Denny Today] 2018-10-09, Palo Alto, CA
+#+BEGIN_EXAMPLE
+- Learn concourse: concourse create a new team
+- Learn syslog forward
+- Ticket management
+#+END_EXAMPLE
+*** [Denny Today] 2018-10-10, Palo Alto, CA
+ #+BEGIN_EXAMPLE
+ concourse: seperate run-tests into a pause step
+ #+END_EXAMPLE
+*** [Denny Today] 2018-10-19, Palo Alto, CA
+ #+BEGIN_EXAMPLE
+ Learn cloudfoundry kubo-release and cfcr-etcd-release
+ #+END_EXAMPLE
+*** [Denny Today] 2018-10-22, Palo Alto, CA
+#+BEGIN_EXAMPLE
+- Learn and play with Prometheus
+- Deep dive into PKS upgrade process
+#+END_EXAMPLE
+*** [Denny Today] 2018-10-25, Palo Alto, CA
+ #+BEGIN_EXAMPLE
+ Deep dive into openshift/minishift
+ #+END_EXAMPLE
 ** Sep 2018
 [Denny Today] 2018-09-09, MountainView, CA
 #+BEGIN_EXAMPLE
@@ -55,7 +100,7 @@ Check [[https://github.com/dennyzhang/today-learning/blob/master/README-old.org]
 
  <a href="https://www.linkedin.com/in/dennyzhang001"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
  <a href="https://github.com/DennyZhang"><img align="bottom"src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
- <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+ <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack"/></a>
  #+END_HTML
 
 Blog URL: https://www.dennyzhang.com/today-learning
